@@ -17,6 +17,6 @@ A text repository for guides to Open Science platforms:
 
 * 🧬 Genetic Data
 
-* 🧫 Histology, OMERO – Open Microscopy Environment Remote Objects
+* 🧫 Histology - Via Zenodo, Figshare, or Morphosource
 
 * 📝 Preregistrations

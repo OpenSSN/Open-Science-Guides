@@ -41,7 +41,7 @@
 
 ## About
 
-🔗 These guides were written thanks to the [Tanenbaum Open Science Institute (TOSI)](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi), as part of a partnership with the TAU Sagol School of Neuroscience.
+🔗 These guides were written thanks to the [Tanenbaum Open Science Institute (TOSI)](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi), as part of a partnership with the [TAU Sagol School of Neuroscience](https://en-sagol.tau.ac.il/open-science).
 by a team of Sagol School of neuroscience researchers
 
 - [Amir Miller](https://www.linkedin.com/in/amir-miller-276286318/)

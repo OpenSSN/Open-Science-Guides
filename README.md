@@ -1,5 +1,8 @@
 # A Text Repository for Guides to Open Science Platforms.
 
+These guides were written thanks to the [Tanenbaum Open Science Institute (TOSI)](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi), as part of a partnership with the [TAU Sagol School of Neuroscience](https://en-sagol.tau.ac.il/open-science).
+
+
 ## 💻 Code Sharing Instruction & Examples
 
 - Code sharing with Git & Programming Guide  
@@ -39,10 +42,9 @@
 
 - Preregistering your study via OSF & AsPredicted
 
-## About
+### Writers
 
-🔗 These guides were written thanks to the [Tanenbaum Open Science Institute (TOSI)](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi), as part of a partnership with the [TAU Sagol School of Neuroscience](https://en-sagol.tau.ac.il/open-science).
-by a team of Sagol School of neuroscience researchers
+The guides were written by a team of SSN researchers:
 
 - [Amir Miller](https://www.linkedin.com/in/amir-miller-276286318/)
 - [Rony Hirschhorn](https://www.linkedin.com/in/rony-hirschhorn/)  

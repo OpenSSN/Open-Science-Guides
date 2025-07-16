@@ -38,3 +38,11 @@
 ## 📝 Preregistrations
 
 - Preregistering your study via OSF & AsPredicted
+
+
+
+## 🔗 These guides were written by a team of Sagol School of neuroscience researchers:
+
+- [Name 1 – LinkedIn Profile](https://www.linkedin.com/in/example1)  
+- [Name 2 – LinkedIn Profile](https://www.linkedin.com/in/example2)  
+- [Name 3 – LinkedIn Profile](https://www.linkedin.com/in/example3)

@@ -42,9 +42,10 @@ These guides were written thanks to the [Tanenbaum Open Science Institute (TOSI)
 
 - Preregistering your study via OSF & AsPredicted
 
-### Writers
+## Our Team
 
-The guides were written by a team of SSN researchers:
+For any suggestions, update requests or additions, please contact openssn@tauex.tau.ac.il.
+These guides were written by a team of SSN researchers:
 
 - [Amir Miller](https://www.linkedin.com/in/amir-miller-276286318/)
 - [Rony Hirschhorn](https://www.linkedin.com/in/rony-hirschhorn/)  

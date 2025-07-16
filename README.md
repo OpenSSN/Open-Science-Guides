@@ -2,21 +2,36 @@
 A text repository for guides to Open Science platforms:
 
 * 💻 Code sharing instruction & Examples
+* Code sharing with Git & Programming Guide
+* FAIR - Writing clean and reproducible code in R and Python
 
-* 📁 OSF – Open Science Framework
-
-* 🧪 FAIR – Findable, Accessible, Interoperable, Reusable (clean and reproducible R + Python)
-
-* 🧠 NWB, DANDI – Neurodata Without Borders, Distributed Archives for Neurophysiology Data (LFP / EEG, Calcium imaging, patch clamp, single units)
+* 🧠 LFP / EEG, Calcium imaging, patch clamp, single units
+* Neurophysiology Data Sharing via NWB and DANDI (Neurodata Without Borders, Distributed Archives for Neurophysiology Data) 
 
 * 👁️ Eye Tracking
+* Eye Tracking Data Sharing via BIDS & OSF
 
 * 🧍 Behavioral Data
+* Behavioral Data Sharing via OSF & BIDS
 
 * 🧲 fMRI – Functional Magnetic Resonance Imaging
+* FMRI data Sharing via OpenNeuro and BIDS
 
 * 🧬 Genetic Data
+* Genetic (Human) data sharing via dbGaP 
+* Genetic (Non-Human) Sequencing data sharing via SRA 
 
-* 🧫 Histology - Via Zenodo, Figshare, or Morphosource
+* 🧫 Histology
+* Histological Data Sharing via Zenodo, Figshare & Morphosource
+
+* 📁 OSF – Open Science Framework
+* Sharing any data via OSF 
 
 * 📝 Preregistrations
+* Preregistrating your study via OSF & Aspredicted
+
+
+
+
+
+

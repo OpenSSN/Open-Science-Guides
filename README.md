@@ -23,13 +23,13 @@ A text repository for guides to Open Science platforms:
 
 
 🧲 fMRI – Functional Magnetic Resonance Imaging
-* FMRI data Sharing via OpenNeuro and BIDS
+* FMRI Data Sharing via OpenNeuro and BIDS
 
 
 
 🧬 Genetic Data
-* Genetic (Human) data sharing via dbGaP 
-* Genetic (Non-Human) Sequencing data sharing via SRA 
+* Genetic (Human) Data Sharing via dbGaP 
+* Genetic (Non-Human) Sequencing Data Sharing via SRA 
 
 
 

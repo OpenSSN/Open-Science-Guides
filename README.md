@@ -13,9 +13,10 @@ These guides were written thanks to the [Tanenbaum Open Science Institute (TOSI)
 - Neurophysiology Data Sharing via NWB and DANDI  
   *(Neurodata Without Borders, Distributed Archives for Neurophysiology Data)*
 
-## 👁️ Eye Tracking
+## 👁️ Eye Tracking and VR
 
 - Eye Tracking Data Sharing via BIDS & OSF
+- for VR data, we suggest you look at [TAUXR's data export guide and toolkit](https://github.com/TAU-XR/TAUXR-Research-Template/blob/main/Docs/View%20Exported%20Data.md)
 
 ## 🧍 Behavioral Data
 

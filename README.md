@@ -11,6 +11,7 @@ These guides were written thanks to the [Tanenbaum Open Science Institute (TOSI)
 
 - Code sharing with Git & Programming Guide  
 - FAIR – Writing clean and reproducible code in R and Python
+- As an example, se suggest [TAUXR's VR Toolkit](https://github.com/TAU-XR/TAUXR-Research-Template) 
 
 ## 🧠 Neurophysiology: LFP / EEG, Calcium Imaging, Patch Clamp, Single Units
 

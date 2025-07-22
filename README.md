@@ -58,6 +58,6 @@ These guides were written by a team of SSN researchers:
 - [Amir Miller](https://www.linkedin.com/in/amir-miller-276286318/)
 - [Rony Hirschhorn](https://www.linkedin.com/in/rony-hirschhorn/)  
 - [Eden Elbaz](https://www.linkedin.com/in/eden-elbaz-5699bb1b5/)  
-- Lior de Marcas
+- [Lior de Marcas](https://github.com/Liordemarcas)
 - Gabriel Braun
 - [Adi Cantor](https://www.linkedin.com/in/adi-cantor-b959b1213/)

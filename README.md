@@ -5,13 +5,19 @@ These guides were written thanks to the [Tanenbaum Open Science Institute (TOSI)
 
 ---
 
-# Guides to Open Science Platforms:
+# Guides for Open Science Platforms:
 
 ## 💻 Code Sharing Instruction & Examples
 
 - Code sharing with Git & Programming Guide  
 - FAIR – Writing clean and reproducible code in R and Python
 - As an example, we suggest [TAUXR's VR Toolkit](https://github.com/TAU-XR/TAUXR-Research-Template) 
+
+## 📝 Preregistrations
+
+- Preregistering your study via OSF & AsPredicted
+
+# Data Sharing Guides:
 
 ## 🧠 Neurophysiology: LFP / EEG, Calcium Imaging, Patch Clamp, Single Units
 
@@ -43,10 +49,6 @@ These guides were written thanks to the [Tanenbaum Open Science Institute (TOSI)
 ## 📁 OSF – Open Science Framework
 
 - Sharing any data via OSF
-
-## 📝 Preregistrations
-
-- Preregistering your study via OSF & AsPredicted
 
 ---
 

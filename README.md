@@ -3,7 +3,7 @@
 
 These guides were written thanks to the [Tanenbaum Open Science Institute (TOSI)](https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi), as part of a partnership with the [TAU Sagol School of Neuroscience](https://en-sagol.tau.ac.il/open-science) by a team of SSN researchers. For any suggestions, update requests or additions, please contact openssn@tauex.tau.ac.il.
 
-Check out our [Notion page](https://openssn.notion.site/Data-Code-Sharing-Guides-2387fe56841a80e1bd3fd135e809166a?pvs=74) and [Best Practices Guide](https://qrto.org/teI330](https://en-sagol.tau.ac.il/sites/en-sagol.tau.ac.il/files/media_server/en-sagol/Open-Science-English.pdf))!
+Check out our [Notion page](https://openssn.notion.site/Data-Code-Sharing-Guides-2387fe56841a80e1bd3fd135e809166a?pvs=74) and [Best Practices Guide](https://en-sagol.tau.ac.il/sites/en-sagol.tau.ac.il/files/media_server/en-sagol/Open-Science-English.pdf)!
 
 ---
 
